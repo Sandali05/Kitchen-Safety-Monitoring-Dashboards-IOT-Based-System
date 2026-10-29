@@ -108,4 +108,3 @@ The dashboard includes an Analytics Copilot chatbot designed to help users explo
 ---
 
 ### 💙 Making kitchen monitoring clearer through connected devices and real-time analytics. 🍳📊
-"""
