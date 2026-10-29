@@ -1,6 +1,3 @@
-from pathlib import Path
-
-readme = """# 🍳 Smart Kitchen Monitoring Dashboard
 
 ### 🌐 Real-Time Kitchen Safety Monitoring with IoT, React, and Firebase
 
